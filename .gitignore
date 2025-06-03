@@ -1,3 +1,6 @@
+data/
+tokenizer/*.model
+tokenizer/*.vocab
+experiment/
 venv/
-out/
-trans*
+__pycache__/

@@ -4,3 +4,4 @@ tokenizer/*.vocab
 experiment/
 venv/
 __pycache__/
+*.bin
